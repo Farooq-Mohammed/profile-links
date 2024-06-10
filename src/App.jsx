@@ -54,7 +54,7 @@ function App() {
 			<div className="links-container" name="links-container">
 				{linkObj.map((obj) => (
 					<li key={obj.name} className="link" name={obj.tagName}>
-						<a href={obj.link}>
+						<a href={obj.link} target="_blank">
 							{obj.svg}
 							<span>{obj.name}</span>
 						</a>
