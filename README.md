@@ -8,25 +8,25 @@ Welcome to my Coding Profiles Navigator! This web application is designed to hel
 
 Explore my portfolio to see my latest projects, accomplishments, and more about my work.
 
-### [GitHub](https://github.com/yourusername)
+### [GitHub](https://github.com/Farooq-Mohammed)
 
 Check out my GitHub repositories to see the code behind my projects and contributions.
 
-### [LinkedIn](https://www.linkedin.com/in/yourusername)
+### [LinkedIn](https://www.linkedin.com/in/mohdfarooqahmed/)
 
 Connect with me on LinkedIn to expand your professional network and view my professional journey.
 
-### [LeetCode](https://leetcode.com/yourusername)
+### [LeetCode](https://leetcode.com/u/18211a05h5/)
 
 Visit my LeetCode profile to see my solutions to various coding challenges and algorithms.
 
-### [HackerRank](https://www.hackerrank.com/yourusername)
+### [HackerRank](https://www.hackerrank.com/profile/omar_farooq023)
 
 See my HackerRank profile for my coding practice and problem-solving skills in different programming languages.
 
 ## 📱 Contact Me
 
-If you would like to get in touch, feel free to reach out through any of the above platforms or email me at [your-email@example.com](mailto:your-email@example.com).
+If you would like to get in touch, feel free to reach out through any of the above platforms or email me at [omar.farooq023@gmail.com](omar.farooq023@gmail.com).
 
 ## 🌟 Highlights
 
@@ -40,4 +40,4 @@ Thank you for visiting! I hope you find my work interesting and inspiring. Don't
 
 ---
 
-_Created with ❤️ by [Your Name](#)._
+_Created with ❤️ by [Mohammed Farooq Ahmed](#)._
